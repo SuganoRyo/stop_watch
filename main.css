@@ -1,0 +1,13 @@
+.stop_watch{
+  font-size: 30px;
+  text-align: center;
+}
+.timer_display{
+  font-size: 60px;
+  text-align: center;
+}
+
+.buttons{
+  text-align: center; 
+  margin-top: 20px;
+}
